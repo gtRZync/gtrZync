@@ -91,3 +91,13 @@
 <p align="center">
   <i>Written in C, compiled with passion.</i>
 </p>
+
+<br/>
+
+![gifgithub](cats.gif)
+
+<br/>
+
+<a href="https://github.com/gtRZync" target="_blank">
+  <img align="right" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon">
+</a>
