@@ -13,13 +13,16 @@
 </h1>
 
 <p align="center">
-  I like to code. I <b>really</b> like to code.
+  I like to code. I <b>really</b> like to code.<br>
+  But you know what I love more? My Lord and Savior <b>Jesus Christ</b> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Latin%20Cross.png" alt="Latin Cross" width="50" height="50" />
 </p>
+
 
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="50" height="50" /> About Me
 <ul>
+  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Latin%20Cross.png" alt="Latin Cross" width="25" height="25" /> Follower of Christ</li>
   <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /> Computer Science student</li>
   <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Low-level enjoyer, especially <b>C</b></li>
   <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="25" height="25" /> Into <b>Game Development</b> & <b>Software Development</b></li>
@@ -43,8 +46,8 @@
 <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="50" height="50" /> Tools & Platforms</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=Linux&message=Daily%20Driver&colorA=1e1e2e&colorB=f9e2af"/>
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=Windows&message=Also%20Used&colorA=1e1e2e&colorB=89b4fa"/>
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=Linux&message=Also%20Used&colorA=1e1e2e&colorB=f9e2af"/>
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=Windows&message=Daily%20Driver&colorA=1e1e2e&colorB=89b4fa"/>
   <img src="https://img.shields.io/static/v1?style=for-the-badge&label=Git&message=Version%20Control&colorA=1e1e2e&colorB=f38ba8"/>
 </p>
 
@@ -55,6 +58,7 @@
 <p align="center">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&label=SFML&message=Graphics%20%26%20Audio&colorA=1e1e2e&colorB=a6e3a1"/>
   <img src="https://img.shields.io/static/v1?style=for-the-badge&label=Raylib&message=Game%20Framework&colorA=1e1e2e&colorB=94e2d5"/>
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=Engines&message=Too%20High--Level&colorA=1e1e2e&colorB=f5c2e7"/>
 </p>
 
 ---
