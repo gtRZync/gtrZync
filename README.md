@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/static/v1?style=for-the-badge&label=C%2B%2B&message=Systems&colorA=1e1e2e&colorB=89b4fa"/>
   <img src="https://img.shields.io/static/v1?style=for-the-badge&label=Java&message=OOP&colorA=1e1e2e&colorB=f38ba8"/>
   <img src="https://img.shields.io/static/v1?style=for-the-badge&label=Python&message=Scripting&colorA=1e1e2e&colorB=a6e3a1"/>
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=OCaml&message=Functional&colorA=1e1e2e&colorB=94e2d5"/>
 </p>
 
 ---
