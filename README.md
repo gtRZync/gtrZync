@@ -20,6 +20,11 @@
 
 ---
 
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gtRZync&theme=catppuccin-mocha" alt="GitHub Streak" /></a>
+</p>
+
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="50" height="50" /> About Me
 <ul>
   <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Latin%20Cross.png" alt="Latin Cross" width="25" height="25" /> Follower of Christ</li>
