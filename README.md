@@ -26,7 +26,7 @@
   <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Low-level enjoyer, especially <b>C</b></li>
   <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="25" height="25" /> Into <b>Game Development</b> & <b>Software Development</b></li>
   <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="25" height="25" /> Linux & <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Window.png" alt="Window" width="25" height="25" /> Windows user (never macOS)</li>
-  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Cross%20Mark.png" alt="Cross Mark" width="25" height="25" /> Web dev? Not right now.</li>
+  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Cross%20Mark.png" alt="Cross Mark" width="25" height="25" /> Web dev? Learning & exploring.</li>
 </ul>
 
 ---
@@ -76,8 +76,8 @@
 <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Cross%20Mark.png" alt="Cross Mark" width="50" height="50" /> Web Development</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=Web%20Dev&message=Nope&colorA=1e1e2e&colorB=f38ba8"/>
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=JavaScript&message=Maybe%20Someday&colorA=1e1e2e&colorB=fab387"/>
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=Web%20Dev&message=Learning&colorA=1e1e2e&colorB=f38ba8"/>
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=JavaScript&message=Exploring&colorA=1e1e2e&colorB=fab387"/>
 </p>
 
 ---
