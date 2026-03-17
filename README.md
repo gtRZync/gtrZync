@@ -2,99 +2,57 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="50" height="50" />
-  Hi there, I'm Myson
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" width="50" height="50"/>
+  Myson – Software & Game Developer
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="50" height="50"/>
 </h1>
 
 <p align="center">
-  I like to code. I <b>really</b> like to code.<br>
-  But you know what I love more? My Lord and Savior <b>Jesus Christ</b> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Latin%20Cross.png" alt="Latin Cross" width="50" height="50" />
+  💻 Building games & systems | Open-source enthusiast | Low-level programmer<br>
+  Follower of Christ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Latin%20Cross.png" width="25" height="25"/>
 </p>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="50" height="50" /> About Me
-<ul>
-  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Latin%20Cross.png" alt="Latin Cross" width="25" height="25" /> Follower of Christ</li>
-  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /> Computer Science student</li>
-  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Low-level enjoyer, especially <b>C</b></li>
-  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="25" height="25" /> Into <b>Game Development</b> & <b>Software Development</b></li>
-  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="25" height="25" /> Linux & <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Window.png" alt="Window" width="25" height="25" /> Windows user (never macOS)</li>
-  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Cross%20Mark.png" alt="Cross Mark" width="25" height="25" /> Web dev? Learning & exploring.</li>
-</ul>
+## 🛠 Languages, Technologies & Tools
 
----
+<p align="left">
+    <a href="https://go-skill-icons.netlify.app">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,python,ocaml,javascript,html,css,linux,windows,git,discord,vscode,idea,zed,figma,github&perline=5" />
+    </a>
+</p>
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Puzzle%20Piece.png" alt="Puzzle Piece" width="50" height="50" /> Programming Languages</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=C&message=Favorite&colorA=1e1e2e&colorB=f5c2e7"/>
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=C%2B%2B&message=Systems&colorA=1e1e2e&colorB=89b4fa"/>
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=Java&message=OOP&colorA=1e1e2e&colorB=f38ba8"/>
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=Python&message=Scripting&colorA=1e1e2e&colorB=a6e3a1"/>
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=OCaml&message=Functional&colorA=1e1e2e&colorB=94e2d5"/>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtRZync&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
 ---
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="50" height="50" /> Tools & Platforms</h2>
+## 🧩 Areas of Expertise
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=Linux&message=Also%20Used&colorA=1e1e2e&colorB=f9e2af"/>
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=Windows&message=Daily%20Driver&colorA=1e1e2e&colorB=89b4fa"/>
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=Git&message=Version%20Control&colorA=1e1e2e&colorB=f38ba8"/>
-</p>
-
+| Category | Focus |
+|----------|-------|
+| **Programming** | ![C](https://img.shields.io/badge/C-F5C2E7?style=flat-square&logo=c&logoColor=000000) ![C++](https://img.shields.io/badge/C++-89B4FA?style=flat-square&logo=c%2B%2B&logoColor=000000) ![Java](https://img.shields.io/badge/Java-F38BA8?style=flat-square&logo=java&logoColor=000000) ![Python](https://img.shields.io/badge/Python-A6E3A1?style=flat-square&logo=python&logoColor=000000) ![OCaml](https://img.shields.io/badge/OCaml-94E2D5?style=flat-square&logo=ocaml&logoColor=000000) ![JS](https://img.shields.io/badge/JavaScript-FAB387?style=flat-square&logo=javascript&logoColor=000000) |
+| **Game Development** | ![SFML](https://img.shields.io/badge/SFML-A6E3A1?style=flat-square&logo=sfml&logoColor=000000) ![Raylib](https://img.shields.io/badge/Raylib-94E2D5?style=flat-square&logo=raylib&logoColor=000000) |
+| **Web & Tools** | ![HTML](https://img.shields.io/badge/HTML5-F38BA8?style=flat-square&logo=html5&logoColor=000000) ![CSS](https://img.shields.io/badge/CSS3-A6E3A1?style=flat-square&logo=css3&logoColor=000000) ![Git](https://img.shields.io/badge/Git-F38BA8?style=flat-square&logo=git&logoColor=000000) ![VSCode](https://img.shields.io/badge/VSCode-89B4FA?style=flat-square&logo=visual-studio-code&logoColor=000000) ![IntelliJ](https://img.shields.io/badge/IntelliJ-94E2D5?style=flat-square&logo=intellijidea&logoColor=000000) ![Zed](https://img.shields.io/badge/Zed-F5C2E7?style=flat-square&logo=zed&logoColor=000000)  |
+| **Platforms** | ![Linux](https://img.shields.io/badge/Linux-F9E2AF?style=flat-square&logo=linux&logoColor=000000) ![Windows](https://img.shields.io/badge/Windows-89B4FA?style=flat-square&logo=windows&logoColor=000000) |
+| **Other Interests** | Low-level systems, software architecture, open-source contributions |
 ---
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="50" height="50" /> Game Dev & Libraries</h2>
+## 🚀 Current Projects & Interests
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=SFML&message=Graphics%20%26%20Audio&colorA=1e1e2e&colorB=a6e3a1"/>
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=Raylib&message=Game%20Framework&colorA=1e1e2e&colorB=94e2d5"/>
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=Engines&message=Too%20High--Level&colorA=1e1e2e&colorB=f5c2e7"/>
-</p>
+<div align="center">
 
----
+| <img src="https://img.icons8.com/color/48/000000/video-game.png"/> | <img src="https://img.icons8.com/color/48/000000/code.png"/> | <img src="https://img.icons8.com/color/48/000000/web.png"/> |
+|:--:|:--:|:--:|
+| Game engines & games in C/C++ | Software engineering & algorithms | Web development & frameworks |
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="50" height="50" /> What I Like Building</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=Game%20Development&message=Focus&colorA=1e1e2e&colorB=cba6f7"/>
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=Software%20Development&message=Focus&colorA=1e1e2e&colorB=89b4fa"/>
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=Low--Level&message=Programming&colorA=1e1e2e&colorB=f5c2e7"/>
-</p>
-
----
-
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Cross%20Mark.png" alt="Cross Mark" width="50" height="50" /> Web Development</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=Web%20Dev&message=Learning&colorA=1e1e2e&colorB=f38ba8"/>
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=JavaScript&message=Exploring&colorA=1e1e2e&colorB=fab387"/>
-</p>
-
----
-
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/First%20Quarter%20Moon%20Face.png" alt="First Quarter Moon Face" width="50" height="50" /> Aesthetic</h2>
-
-<p align="center">
-  <a href="https://github.com/catppuccin/catppuccin">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&label=Theme&message=Catppuccin%20Mocha&colorA=363a4f&colorB=b7bdf8"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>Written in C, compiled with passion.</i>
-</p>
+</div>
 
 <br/>
 
